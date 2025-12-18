@@ -8,7 +8,7 @@
 * **Inference Edge:** **Arduino Nano 33 BLE Sense**
   * *Role:* Gaussian Mixture Model (GMM) Classification
 * **Output:** OLED/LED Display (Visual Alert) + CSV Logs on Pi USB Drive (Data Archival)
-  * *Note:* Full `matplotlib` visualization including star and satellite positions already built in test.py (may be included on native display)
+  * *Note:* Full `matplotlib` visualization including star, planet, and satellite positions already built in test.py (may be included on native display)
 
 ## Software Logic
 
