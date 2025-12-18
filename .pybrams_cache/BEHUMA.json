@@ -1,0 +1,14 @@
+{
+    "date": "2025-12-16T09:01:23",
+    "data": {
+        "BEHUMA": {
+            "location_code": "BEHUMA",
+            "name": "Humain",
+            "status": "A",
+            "longitude": 5.254884,
+            "latitude": 50.192434,
+            "altitude": 0.214,
+            "systems_url": "https://brams.aeronomie.be/v1/system.php?location_code=BEHUMA"
+        }
+    }
+}

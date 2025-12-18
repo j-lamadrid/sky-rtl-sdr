@@ -1,0 +1,644 @@
+{
+    "date": "2025-12-16T09:01:22",
+    "data": {
+        "BEBILZ_SYS001": {
+            "system_code": "BEBILZ_SYS001",
+            "name": "Bilzen",
+            "start": "2020-07-24 10:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEBILZ",
+            "location_code": "BEBILZ"
+        },
+        "BEBOEC_SYS001": {
+            "system_code": "BEBOEC_SYS001",
+            "name": "Boechout",
+            "start": "2023-11-01 00:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEBOEC",
+            "location_code": "BEBOEC"
+        },
+        "BEBROE_SYS001": {
+            "system_code": "BEBROE_SYS001",
+            "name": "Broechem",
+            "start": "2023-04-17 00:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEBROE",
+            "location_code": "BEBROE"
+        },
+        "BEDINA_SYS001": {
+            "system_code": "BEDINA_SYS001",
+            "name": "Dinant",
+            "start": "2012-06-12 15:55:00",
+            "end": "2025-12-05 10:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEDINA",
+            "location_code": "BEDINA"
+        },
+        "BEECON_SYS001": {
+            "system_code": "BEECON_SYS001",
+            "name": "Ecotron 1",
+            "start": "2025-05-22 00:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEECON",
+            "location_code": "BEECON"
+        },
+        "BEECON_SYS002": {
+            "system_code": "BEECON_SYS002",
+            "name": "Ecotron 2",
+            "start": "2025-05-22 00:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 2,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEECON",
+            "location_code": "BEECON"
+        },
+        "BEECON_SYS003": {
+            "system_code": "BEECON_SYS003",
+            "name": "Ecotron 3",
+            "start": "2025-05-22 00:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 3,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEECON",
+            "location_code": "BEECON"
+        },
+        "BEECON_SYS004": {
+            "system_code": "BEECON_SYS004",
+            "name": "Ecotron 4",
+            "start": "2025-05-22 00:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 4,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEECON",
+            "location_code": "BEECON"
+        },
+        "BEECON_SYS005": {
+            "system_code": "BEECON_SYS005",
+            "name": "Ecotron 5",
+            "start": "2025-05-22 00:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 5,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEECON",
+            "location_code": "BEECON"
+        },
+        "BEFRAM_SYS001": {
+            "system_code": "BEFRAM_SYS001",
+            "name": "Frameries",
+            "start": "2024-07-03 00:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEFRAM",
+            "location_code": "BEFRAM"
+        },
+        "BEGAVE_SYS001": {
+            "system_code": "BEGAVE_SYS001",
+            "name": "Gavere",
+            "start": "2021-06-30 00:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEGAVE",
+            "location_code": "BEGAVE"
+        },
+        "BEGEMB_SYS001": {
+            "system_code": "BEGEMB_SYS001",
+            "name": "Gembes",
+            "start": "2020-09-14 10:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEGEMB",
+            "location_code": "BEGEMB"
+        },
+        "BEGENK_SYS001": {
+            "system_code": "BEGENK_SYS001",
+            "name": "Genk",
+            "start": "2012-06-21 11:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEGENK",
+            "location_code": "BEGENK"
+        },
+        "BEGENT_SYS001": {
+            "system_code": "BEGENT_SYS001",
+            "name": "Gent",
+            "start": "2013-04-22 11:55:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEGENT",
+            "location_code": "BEGENT"
+        },
+        "BEGRIM_SYS001": {
+            "system_code": "BEGRIM_SYS001",
+            "name": "Grimbergen",
+            "start": "2011-07-01 00:00:00",
+            "end": "2027-06-08 08:11:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEGRIM",
+            "location_code": "BEGRIM"
+        },
+        "BEHAAC_SYS001": {
+            "system_code": "BEHAAC_SYS001",
+            "name": "Haacht",
+            "start": "2016-08-01 11:35:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEHAAC",
+            "location_code": "BEHAAC"
+        },
+        "BEHAIL_SYS001": {
+            "system_code": "BEHAIL_SYS001",
+            "name": "Haillot",
+            "start": "2022-09-26 20:20:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEHAIL",
+            "location_code": "BEHAIL"
+        },
+        "BEHALL_SYS001": {
+            "system_code": "BEHALL_SYS001",
+            "name": "Halle-Zoersel",
+            "start": "2022-08-28 08:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEHALL",
+            "location_code": "BEHALL"
+        },
+        "BEHARE_SYS001": {
+            "system_code": "BEHARE_SYS001",
+            "name": "Harelbeke",
+            "start": "2011-10-02 17:40:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEHARE",
+            "location_code": "BEHARE"
+        },
+        "BEHASS_SYS001": {
+            "system_code": "BEHASS_SYS001",
+            "name": "Hasselt",
+            "start": "2022-06-24 12:25:00",
+            "end": "2025-12-08 12:20:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEHASS",
+            "location_code": "BEHASS"
+        },
+        "BEHOUT_SYS001": {
+            "system_code": "BEHOUT_SYS001",
+            "name": "Houthalen",
+            "start": "2020-08-24 10:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEHOUT",
+            "location_code": "BEHOUT"
+        },
+        "BEHOVE_SYS001": {
+            "system_code": "BEHOVE_SYS001",
+            "name": "Hove",
+            "start": "2011-08-05 20:05:00",
+            "end": "2023-07-03 08:50:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEHOVE",
+            "location_code": "BEHOVE"
+        },
+        "BEHUMA_SYS001": {
+            "system_code": "BEHUMA_SYS001",
+            "name": "Humain 1",
+            "start": "2015-04-23 09:45:00",
+            "end": "2025-12-11 21:20:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEHUMA",
+            "location_code": "BEHUMA"
+        },
+        "BEHUMA_SYS002": {
+            "system_code": "BEHUMA_SYS002",
+            "name": "Humain 2",
+            "start": "2015-04-23 09:45:00",
+            "end": "2025-12-11 21:20:00",
+            "antenna": 2,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEHUMA",
+            "location_code": "BEHUMA"
+        },
+        "BEHUMA_SYS003": {
+            "system_code": "BEHUMA_SYS003",
+            "name": "Humain 3",
+            "start": "2015-04-23 09:45:00",
+            "end": "2025-12-11 21:20:00",
+            "antenna": 3,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEHUMA",
+            "location_code": "BEHUMA"
+        },
+        "BEHUMA_SYS004": {
+            "system_code": "BEHUMA_SYS004",
+            "name": "Humain 4",
+            "start": "2015-04-23 09:45:00",
+            "end": "2025-12-11 21:20:00",
+            "antenna": 4,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEHUMA",
+            "location_code": "BEHUMA"
+        },
+        "BEHUMA_SYS005": {
+            "system_code": "BEHUMA_SYS005",
+            "name": "Humain 5",
+            "start": "2015-04-23 09:45:00",
+            "end": "2025-12-11 21:20:00",
+            "antenna": 5,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEHUMA",
+            "location_code": "BEHUMA"
+        },
+        "BEHUMA_SYS006": {
+            "system_code": "BEHUMA_SYS006",
+            "name": "Humain 6",
+            "start": "2015-04-23 09:45:00",
+            "end": "2025-12-11 21:20:00",
+            "antenna": 6,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEHUMA",
+            "location_code": "BEHUMA"
+        },
+        "BEHUMB_SYS001": {
+            "system_code": "BEHUMB_SYS001",
+            "name": "Humbeek",
+            "start": "2011-09-23 10:37:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEHUMB",
+            "location_code": "BEHUMB"
+        },
+        "BEJALH_SYS001": {
+            "system_code": "BEJALH_SYS001",
+            "name": "Jalhay",
+            "start": "2011-08-01 13:31:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEJALH",
+            "location_code": "BEJALH"
+        },
+        "BEKAMP_SYS001": {
+            "system_code": "BEKAMP_SYS001",
+            "name": "Kampenhout",
+            "start": "2011-07-30 00:00:00",
+            "end": "2025-12-13 00:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEKAMP",
+            "location_code": "BEKAMP"
+        },
+        "BEKAPE_SYS001": {
+            "system_code": "BEKAPE_SYS001",
+            "name": "Kapelle-op-den-Bos",
+            "start": "2011-07-23 14:15:00",
+            "end": "2015-05-20 20:20:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEKAPE",
+            "location_code": "BEKAPE"
+        },
+        "BELANG_SYS001": {
+            "system_code": "BELANG_SYS001",
+            "name": "Langemark",
+            "start": "2011-07-04 16:25:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BELANG",
+            "location_code": "BELANG"
+        },
+        "BELEMB_SYS001": {
+            "system_code": "BELEMB_SYS001",
+            "name": "Lembeek",
+            "start": "2011-07-23 00:00:00",
+            "end": "2018-01-15 00:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BELEMB",
+            "location_code": "BELEMB"
+        },
+        "BELEUV_SYS001": {
+            "system_code": "BELEUV_SYS001",
+            "name": "Leuven",
+            "start": "2022-06-24 12:25:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BELEUV",
+            "location_code": "BELEUV"
+        },
+        "BELEUZ_SYS001": {
+            "system_code": "BELEUZ_SYS001",
+            "name": "Leuze",
+            "start": "2012-08-16 20:15:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BELEUZ",
+            "location_code": "BELEUZ"
+        },
+        "BELIEG_SYS001": {
+            "system_code": "BELIEG_SYS001",
+            "name": "Li\u00e8ge",
+            "start": "2011-09-09 10:55:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BELIEG",
+            "location_code": "BELIEG"
+        },
+        "BEMAAM_SYS001": {
+            "system_code": "BEMAAM_SYS001",
+            "name": "Maasmechelen RK",
+            "start": "2020-09-15 11:10:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEMAAM",
+            "location_code": "BEMAAM"
+        },
+        "BEMAAS_SYS001": {
+            "system_code": "BEMAAS_SYS001",
+            "name": "Maasmechelen",
+            "start": "2015-03-27 14:30:00",
+            "end": "2020-08-20 00:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEMAAS",
+            "location_code": "BEMAAS"
+        },
+        "BEMANH_SYS001": {
+            "system_code": "BEMANH_SYS001",
+            "name": "Manhay",
+            "start": "2023-08-25 00:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEMANH",
+            "location_code": "BEMANH"
+        },
+        "BEMONS_SYS001": {
+            "system_code": "BEMONS_SYS001",
+            "name": "Mons",
+            "start": "2011-12-20 13:00:00",
+            "end": "2024-02-14 09:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEMONS",
+            "location_code": "BEMONS"
+        },
+        "BENEUF_SYS001": {
+            "system_code": "BENEUF_SYS001",
+            "name": "Neufch\u00e2teau",
+            "start": "2011-10-07 15:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BENEUF",
+            "location_code": "BENEUF"
+        },
+        "BEOOSE_SYS001": {
+            "system_code": "BEOOSE_SYS001",
+            "name": "Oostende Astropolis",
+            "start": "2019-10-29 12:15:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEOOSE",
+            "location_code": "BEOOSE"
+        },
+        "BEOOST_SYS001": {
+            "system_code": "BEOOST_SYS001",
+            "name": "Oostende",
+            "start": "2019-10-29 12:15:00",
+            "end": "2017-02-25 00:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEOOST",
+            "location_code": "BEOOST"
+        },
+        "BEOPHA_SYS001": {
+            "system_code": "BEOPHA_SYS001",
+            "name": "Ophain",
+            "start": "2011-07-28 15:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEOPHA",
+            "location_code": "BEOPHA"
+        },
+        "BEOTTI_SYS001": {
+            "system_code": "BEOTTI_SYS001",
+            "name": "Ottignies",
+            "start": "2011-08-26 12:40:00",
+            "end": "2025-12-16 00:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEOTTI",
+            "location_code": "BEOTTI"
+        },
+        "BEOUDS_SYS001": {
+            "system_code": "BEOUDS_SYS001",
+            "name": "Oudsbergen",
+            "start": "2020-02-19 00:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEOUDS",
+            "location_code": "BEOUDS"
+        },
+        "BEOVER_SYS001": {
+            "system_code": "BEOVER_SYS001",
+            "name": "Overpelt",
+            "start": "2011-07-21 16:44:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEOVER",
+            "location_code": "BEOVER"
+        },
+        "BEPLAN_SYS001": {
+            "system_code": "BEPLAN_SYS001",
+            "name": "Planetarium",
+            "start": "2021-04-08 10:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEPLAN",
+            "location_code": "BEPLAN"
+        },
+        "BEREDU_SYS001": {
+            "system_code": "BEREDU_SYS001",
+            "name": "Redu",
+            "start": "2011-10-13 14:50:00",
+            "end": "2025-12-16 00:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEREDU",
+            "location_code": "BEREDU"
+        },
+        "BESAFF_SYS001": {
+            "system_code": "BESAFF_SYS001",
+            "name": "Saffraanberg",
+            "start": "2020-01-24 10:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BESAFF",
+            "location_code": "BESAFF"
+        },
+        "BESAUT_SYS001": {
+            "system_code": "BESAUT_SYS001",
+            "name": "Sautour",
+            "start": "2021-03-03 11:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BESAUT",
+            "location_code": "BESAUT"
+        },
+        "BESENE_SYS001": {
+            "system_code": "BESENE_SYS001",
+            "name": "Seneffe",
+            "start": "2013-10-21 11:25:00",
+            "end": "2020-03-11 01:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BESENE",
+            "location_code": "BESENE"
+        },
+        "BESIVR_SYS001": {
+            "system_code": "BESIVR_SYS001",
+            "name": "Sivry-Rance",
+            "start": "2016-06-29 13:10:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BESIVR",
+            "location_code": "BESIVR"
+        },
+        "BETELL_SYS001": {
+            "system_code": "BETELL_SYS001",
+            "name": "Tellin",
+            "start": "2022-04-11 12:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BETELL",
+            "location_code": "BETELL"
+        },
+        "BETESS_SYS001": {
+            "system_code": "BETESS_SYS001",
+            "name": "Tessenderlo",
+            "start": "2011-07-20 11:25:00",
+            "end": "2015-01-29 08:30:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BETESS",
+            "location_code": "BETESS"
+        },
+        "BETINT_SYS001": {
+            "system_code": "BETINT_SYS001",
+            "name": "Tintigny",
+            "start": "2014-05-05 10:55:00",
+            "end": "2021-02-24 09:20:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BETINT",
+            "location_code": "BETINT"
+        },
+        "BETINY_SYS001": {
+            "system_code": "BETINY_SYS001",
+            "name": "Halle de Han",
+            "start": "2021-02-24 13:30:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BETINY",
+            "location_code": "BETINY"
+        },
+        "BETRUI_SYS001": {
+            "system_code": "BETRUI_SYS001",
+            "name": "Saint-Trond",
+            "start": "2019-08-26 20:55:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BETRUI",
+            "location_code": "BETRUI"
+        },
+        "BEUCCE_SYS001": {
+            "system_code": "BEUCCE_SYS001",
+            "name": "Uccle SDR",
+            "start": "2020-01-01 00:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEUCCE",
+            "location_code": "BEUCCE"
+        },
+        "BEUCCL_SYS001": {
+            "system_code": "BEUCCL_SYS001",
+            "name": "Uccle",
+            "start": "2010-09-23 14:40:00",
+            "end": "2021-03-15 00:05:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEUCCL",
+            "location_code": "BEUCCL"
+        },
+        "BEVELM_SYS001": {
+            "system_code": "BEVELM_SYS001",
+            "name": "Velm",
+            "start": "2020-03-06 12:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEVELM",
+            "location_code": "BEVELM"
+        },
+        "BEWARE_SYS001": {
+            "system_code": "BEWARE_SYS001",
+            "name": "Waregem",
+            "start": "2018-01-17 13:40:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEWARE",
+            "location_code": "BEWARE"
+        },
+        "FRCHAR_SYS001": {
+            "system_code": "FRCHAR_SYS001",
+            "name": "Charleville-M\u00e9zi\u00e8res",
+            "start": "2022-02-10 10:30:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=FRCHAR",
+            "location_code": "FRCHAR"
+        },
+        "FREPIN_SYS001": {
+            "system_code": "FREPIN_SYS001",
+            "name": "Epinay sur Orge",
+            "start": "2011-09-16 07:05:00",
+            "end": "2016-11-01 00:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=FREPIN",
+            "location_code": "FREPIN"
+        },
+        "FRHAGN_SYS001": {
+            "system_code": "FRHAGN_SYS001",
+            "name": "Hagnicourt",
+            "start": "2023-07-05 00:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=FRHAGN",
+            "location_code": "FRHAGN"
+        },
+        "FRLILL_SYS001": {
+            "system_code": "FRLILL_SYS001",
+            "name": "Lille",
+            "start": "2021-12-13 10:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=FRLILL",
+            "location_code": "FRLILL"
+        },
+        "FRMAUB_SYS001": {
+            "system_code": "FRMAUB_SYS001",
+            "name": "Maubeuge",
+            "start": "2022-03-24 00:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=FRMAUB",
+            "location_code": "FRMAUB"
+        },
+        "LUDIFF_SYS001": {
+            "system_code": "LUDIFF_SYS001",
+            "name": "Differdange",
+            "start": "2020-10-13 12:00:00",
+            "end": "2023-02-07 16:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=LUDIFF",
+            "location_code": "LUDIFF"
+        },
+        "LUKIRC_SYS001": {
+            "system_code": "LUKIRC_SYS001",
+            "name": "Kirchberg",
+            "start": "2020-10-13 12:00:00",
+            "end": "2025-11-23 08:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=LUKIRC",
+            "location_code": "LUKIRC"
+        },
+        "NLMAAS_SYS001": {
+            "system_code": "NLMAAS_SYS001",
+            "name": "Maastricht",
+            "start": "2020-07-02 00:00:00",
+            "end": "2025-12-16 06:00:00",
+            "antenna": 1,
+            "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=NLMAAS",
+            "location_code": "NLMAAS"
+        }
+    }
+}

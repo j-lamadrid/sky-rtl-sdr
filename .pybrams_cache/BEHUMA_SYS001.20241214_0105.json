@@ -1,0 +1,29 @@
+{
+    "year": 2024,
+    "month": 12,
+    "day": 14,
+    "hours": 1,
+    "minutes": 5,
+    "sample_rate": 5512.5,
+    "pps_count": 300,
+    "duration": 300226576,
+    "precise_start": 1734138300833288,
+    "precise_end": 1734138601059864,
+    "system_code": "BEHUMA_SYS001",
+    "location_code": "BEHUMA",
+    "location_url": "https://brams.aeronomie.be/v1/location.php?location_code=BEHUMA",
+    "system_url": "https://brams.aeronomie.be/v1/system.php?id=44",
+    "wav_url": "https://brams.aeronomie.be/downloader.php?type=wav&system=BEHUMA_SYS001&year=2024&month=12&day=14&hours=01&minutes=05",
+    "wav_name": "RAD_BEDOUR_20241214_0105_BEHUMA_SYS001.wav",
+    "png_url": "https://brams.aeronomie.be/downloader.php?type=png&system=BEHUMA_SYS001&year=2024&month=12&day=14&hours=01&minutes=05",
+    "png_name": "RAD_BEDOUR_20241214_0105_BEHUMA_SYS001.png",
+    "noise_psd": null,
+    "calibrator_psd": null,
+    "signal_properties": {
+        "samplerate": 5512.5,
+        "beacon_frequency": 1005.1342024980077,
+        "calibrator_frequency": 1505.1199200120363
+    },
+    "series_properties": {},
+    "cleaned_series_properties": {}
+}
