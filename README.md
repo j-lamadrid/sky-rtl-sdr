@@ -3,12 +3,11 @@
 ## Hardware Architecture
 
 * **Input:** Dipole Antenna (tuned to ~50-144 MHz) → **RTL-SDR v3 Dongle**
-* **Host Processor:** **Raspberry Pi 4/5**
+* **Host Processor:** **Raspberry Pi 4**
   * *Role:* Raw Signal Acquisition, FFT Processing, Noise Floor Estimation
-* **Inference Edge:** **Arduino Nano 33 BLE Sense**
+* **Inference Edge:** **ESP32-S3 Display Development Board**
   * *Role:* Gaussian Mixture Model (GMM) Classification
-* **Output:** OLED/LED Display (Visual Alert) + CSV Logs on Pi USB Drive (Data Archival)
-  * *Note:* Full `matplotlib` visualization including star, planet, and satellite positions already built in test.py (may be included on native display)
+* **Output:** OLED/LED Display (Sky Map + Visual Alert) + CSV Logs on Pi USB Drive (Data Archival)
 
 ## Software Logic
 
@@ -26,7 +25,7 @@
 ### 2. Transmission (UART)
 * The Pi serializes the features into a lightweight string and transmits it to the microcontroller via USB Serial
 
-### 3. Inference Stage (Arduino Nano 33 BLE Sense | C++)
+### 3. Inference Stage (ESP32-S3 Display Development Board | C++)
 The Arduino performs classification using parameters learned from offline training on BRAMS dataset
 
 * **Model:** **Gaussian Mixture Model (GMM)** (Learned clusters: *Noise*, *Meteor*, *Anomaly*)
